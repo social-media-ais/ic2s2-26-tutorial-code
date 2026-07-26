@@ -1,0 +1,4 @@
+orjson
+websocket-client
+vaderSentiment
+certifi
