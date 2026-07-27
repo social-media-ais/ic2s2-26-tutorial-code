@@ -1,0 +1,9 @@
+.feedlab-label {
+  margin: 12px 0 4px;
+  padding: 10px 12px;
+  border-left: 4px solid #7053d6;
+  border-radius: 6px;
+  background: #f7f5ff;
+  color: #2f2850;
+  font: 14px/1.4 system-ui;
+}
