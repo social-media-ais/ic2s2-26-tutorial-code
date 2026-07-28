@@ -6,6 +6,9 @@ This tutorial walks you through using Jetstream (Bluesky Firehose) to extract an
 2. Select political content using keyword matching  
 3. Apply sentiment analysis using VADER to retain only positively scored posts
 
+**Hint:** `CommitEventsHandler.on_post()` in `workers.py` is where the code
+decides whether to write a post to the database.
+
 ---
 
 ## Step 1: Select Posts in English
